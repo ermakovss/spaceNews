@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/space/static/css/main.7057225e.css",
-    "main.js": "/space/static/js/main.e9f5b0dc.js",
-    "static/media/bacground_home.jpg": "/space/static/media/bacground_home.08529e45f1331b4ec4e9.jpg",
-    "static/media/logo.png": "/space/static/media/logo.c078131c9f7511b1adca.png",
-    "index.html": "/space/index.html",
-    "main.7057225e.css.map": "/space/static/css/main.7057225e.css.map",
-    "main.e9f5b0dc.js.map": "/space/static/js/main.e9f5b0dc.js.map"
+    "main.css": "/spaceNews/static/css/main.b4a5e9b0.css",
+    "main.js": "/spaceNews/static/js/main.cc7d3703.js",
+    "static/media/bacground_home.jpg": "/spaceNews/static/media/bacground_home.08529e45f1331b4ec4e9.jpg",
+    "static/media/logo.png": "/spaceNews/static/media/logo.c078131c9f7511b1adca.png",
+    "index.html": "/spaceNews/index.html",
+    "main.b4a5e9b0.css.map": "/spaceNews/static/css/main.b4a5e9b0.css.map",
+    "main.cc7d3703.js.map": "/spaceNews/static/js/main.cc7d3703.js.map"
   },
   "entrypoints": [
-    "static/css/main.7057225e.css",
-    "static/js/main.e9f5b0dc.js"
+    "static/css/main.b4a5e9b0.css",
+    "static/js/main.cc7d3703.js"
   ]
 }
