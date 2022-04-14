@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spaceNews/static/css/main.b4a5e9b0.css",
-    "main.js": "/spaceNews/static/js/main.92b839b4.js",
+    "main.js": "/spaceNews/static/js/main.a45d70ff.js",
     "static/media/bacground_home.jpg": "/spaceNews/static/media/bacground_home.08529e45f1331b4ec4e9.jpg",
     "static/media/logo.png": "/spaceNews/static/media/logo.c078131c9f7511b1adca.png",
     "index.html": "/spaceNews/index.html",
     "main.b4a5e9b0.css.map": "/spaceNews/static/css/main.b4a5e9b0.css.map",
-    "main.92b839b4.js.map": "/spaceNews/static/js/main.92b839b4.js.map"
+    "main.a45d70ff.js.map": "/spaceNews/static/js/main.a45d70ff.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a5e9b0.css",
-    "static/js/main.92b839b4.js"
+    "static/js/main.a45d70ff.js"
   ]
 }
